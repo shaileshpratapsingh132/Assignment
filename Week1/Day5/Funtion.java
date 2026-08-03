@@ -1,5 +1,6 @@
 public class Funtion {
     public static void main(String[] args) {
+        System.out.println("Hello Shailesh Pratap Singh");
         greeting();
 
     }
