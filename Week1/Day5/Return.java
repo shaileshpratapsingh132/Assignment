@@ -11,9 +11,12 @@ public class Return {
         int Second = input.nextInt();
         int sum = first + Second;
         System.out.println("Sum of the number is :" + sum);
+        shail();
     }
 
-    public static
+    public static void shail() {
+        System.out.println("Shailesh Pratap singh");
+    }
 
     public static void greet() {
         System.out.println("Welcom to calculator\n");
